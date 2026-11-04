@@ -20,10 +20,11 @@ Projeto acadêmico desenvolvido em equipe, com foco na criação de um sistema i
 **Repositório:** [Bicicletário Inteligente](https://github.com/Lisa-a-c/BicicletarioInteligente)
 
 ### VALORANT Performance Coach
-Projeto desenvolvido durante um hackathon da Semana de Computação da USP São Carlos.
-- Desenvolvimento da interface principal e tela de diagnóstico.
-- Integração de módulos e dados.
-- Visualização de informações e atualização de gráficos em tempo real.
+Projeto desenvolvido em equipe durante um hackathon da Semana de Computação da USP São Carlos, em parceria com a Riot Games e a Monousp.
+
+Minha contribuição envolveu o desenvolvimento da interface principal, tela de diagnóstico, funcionalidades de detalhamento e integração dos módulos e dados da equipe.
+
+[Ver repositório no GitHub](https://github.com/amaraalmatheus/ValoCode)
 
 ##  Tecnologias e ferramentas
 
