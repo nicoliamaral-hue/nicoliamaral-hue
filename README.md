@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! Eu sou a Nicoli Amaral 
 
-<!--
-**nicoliamaral-hue/nicoliamaral-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de Ciência da Computação na **UNESP — Universidade Estadual Paulista**.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, análise de dados e inteligência artificial. Gosto de explorar novas tecnologias e transformar ideias em soluções práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projetos
+
+### Bicicletário Inteligente
+Projeto acadêmico voltado ao desenvolvimento de um sistema de monitoramento e segurança para bicicletas.
+- Desenvolvimento de aplicativo mobile com React Native.
+- Integração com Firebase.
+- Sistema integrado a ESP32 e sensores.
+
+### VALORANT Performance Coach
+Projeto desenvolvido durante um hackathon da Semana de Computação da USP São Carlos.
+- Desenvolvimento da interface principal e tela de diagnóstico.
+- Integração de módulos e dados.
+- Visualização de informações e atualização de gráficos em tempo real.
+
+##  Tecnologias e ferramentas
+
+- React Native
+- Firebase
+- Figma
+
+##  Áreas de interesse
+
+- Desenvolvimento de Software
+- Inteligência Artificial
+- Análise de Dados
+- Desenvolvimento de Produtos
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/nicoli-amaral-alves-2bb184422/)
