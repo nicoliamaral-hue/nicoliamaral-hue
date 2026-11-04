@@ -6,11 +6,18 @@ Tenho interesse em desenvolvimento de software, análise de dados e inteligênci
 
 ##  Projetos
 
-### Bicicletário Inteligente
-Projeto acadêmico voltado ao desenvolvimento de um sistema de monitoramento e segurança para bicicletas.
-- Desenvolvimento de aplicativo mobile com React Native.
-- Integração com Firebase.
-- Sistema integrado a ESP32 e sensores.
+###  Bicicletário Inteligente — Projeto PAEG/UNESP
+
+Projeto acadêmico desenvolvido em equipe, com foco na criação de um sistema inteligente para monitoramento e segurança de bicicletas.
+
+**Minha contribuição:**
+- Desenvolvimento colaborativo do aplicativo mobile utilizando React Native.
+- Participação na integração do aplicativo com o Firebase.
+- Colaboração no desenvolvimento e integração dos componentes da solução.
+
+**Tecnologias:** React Native, Firebase e ESP32.
+
+**Repositório:** [Bicicletário Inteligente](https://github.com/Lisa-a-c/BicicletarioInteligente)
 
 ### VALORANT Performance Coach
 Projeto desenvolvido durante um hackathon da Semana de Computação da USP São Carlos.
